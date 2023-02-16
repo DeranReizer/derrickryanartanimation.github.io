@@ -1,4 +1,2 @@
-# Derrick Ryan
-Demo Reel and Portfolio
-theme: cayman
-
+# derrickryanartanimation.github.io
+Portfolio Website
