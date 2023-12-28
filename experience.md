@@ -4,9 +4,8 @@ title: Work Experience, Education, and Software Expertise
 permalink: /experience/
 ---
 
-<div align="center
   | Work  |  Education  |
-  |  ---  |  ---  |
+  |  :---:  |  :---:  |
   |        |  University of Utah  |
   |        |  Film and Media Arts |
   |        |  Animation Emphasis  |
@@ -16,4 +15,3 @@ permalink: /experience/
   |        |  Animation Mentor  |
   |        |  Character Animation  |
   |        |  2023 - Present  |
->
