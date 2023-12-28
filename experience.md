@@ -4,6 +4,12 @@ title: Work Experience, Education, and Software Expertise
 permalink: /experience/
 ---
 
+<div align="center">**Hard Skills**: 3D Animation, Character Animation, Keyframe Animation, Motion Capture Edit, Motion Caputre Retarget, Digital Art, Graphic Design
+
+<div align="center">**Soft Skills**: Teamwork, Self Drive, Task Oriented, Organization, Attention to Detail, Problem Solving, Physical Endurance, Efficiancy and Accuracy
+
+<div align="center">**Software Knowledge**: Autodesk Maya, Blender, Source Filmmaker, Unreal Engine 4 & 5, Photoshop, Illustrator, Some Mudbox, Some ZBrush
+
   | **_Work_**  |  **_Education_**  |
   |  :---:  |  :---:  |
   |        |  **University of Utah**  |
