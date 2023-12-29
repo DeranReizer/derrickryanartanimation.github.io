@@ -5,15 +5,18 @@ permalink: /experience/
 ---
 
 <div align="center">
-  **Hard Skills**
+  **Hard Skills**  
+
   3D Animation, Character Animation, Keyframe Animation, Motion Capture Edit, Motion Caputre Retarget, Digital Art,      Graphic Design  
 
 
-  **Soft Skills**
+  **Soft Skills**  
+  
   Teamwork, Self Drive, Task Oriented, Organization, Attention to Detail, Problem Solving, Physical Endurance,           Efficiancy and Accuracy 
 
 
-  **Software Knowledge**
+  **Software Knowledge**  
+  
   Autodesk Maya, Blender, Source Filmmaker, Unreal Engine 4 & 5, Photoshop, Illustrator, Some Mudbox, Some ZBrush 
 </div>
 
