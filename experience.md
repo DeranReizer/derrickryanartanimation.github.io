@@ -4,7 +4,7 @@ title: Work Experience, Education, and Software Expertise
 permalink: /experience/
 ---
 
-**Hard Skills** 
+**Hard Skills**  
 3D Animation, Character Animation, Keyframe Animation, Motion Capture Edit, Motion Caputre Retarget, Digital Art, Graphic Design  
 
 **Soft Skills**  
