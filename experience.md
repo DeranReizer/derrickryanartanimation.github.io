@@ -3,10 +3,10 @@ layout: default
 title: Work Experience, Education, and Software Expertise
 permalink: /experience/
 ---
-
+<p align="center">
 **Hard Skills**  
 3D Animation, Character Animation, Keyframe Animation, Motion Capture Edit, Motion Caputre Retarget, Digital Art,      Graphic Design  
-
+</p>
 
 **Soft Skills**  
 Teamwork, Self Drive, Task Oriented, Organization, Attention to Detail, Problem Solving, Physical Endurance,           Efficiancy and Accuracy 
