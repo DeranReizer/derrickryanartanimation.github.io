@@ -10,4 +10,8 @@ Derrick has enjoyed animation for as long as he can remember.  Always looking to
 
 Derrick helped create two small games during his time at college; [_Augment!_](https://kaeyde.itch.io/augment) and [_Pull the Lever_](https://theultimatesir.itch.io/pull-the-lever), both of which he was in charge of the animation, texturing and modeling of characters and NPCs.  He has since improved his skills in animating.  He is currently working on two more game projects; _Escape the Manor_, a solo project, and _Professor Longtie_, with his father.
 
-Derrick is currently seeking a position in animation as a junior or entry level animator where he can bring stunning characters to life and provide potential employers good quality animations.  Reach out to him through [derrick@derrickryanartanimation.com](mailto:derrick@derrickryanartanimation.com) or [firecirclegamesanimation@gmail.com](mailto:firecirclegamesanimation@gmail.com) to connect.
+Derrick is currently seeking a position in animation as a junior or entry level animator where he can bring stunning characters to life and provide potential employers good quality animations.  Reach out to him through [derrick@derrickryanartanimation.com](mailto:derrick@derrickryanartanimation.com) or [firecirclegamesanimation@gmail.com](mailto:firecirclegamesanimation@gmail.com) to connect.  
+
+<br></br><br></br>
+
+| [Linkedin](https://www.linkedin.com/in/dryan-animations/) | [Artstation](https://dmryan.artstation.com/) | [Vimeo](https://vimeo.com/firecirclegamesanimation) | [YouTube Channel](https://youtube.com/@firecirclegamesandanimation) | [Itch.io Page](https://deranreizer.itch.io/) |
