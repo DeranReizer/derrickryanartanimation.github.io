@@ -12,6 +12,6 @@ Derrick helped create two small games during his time at college; [_Augment!_](h
 
 Derrick is currently seeking a position in animation as a junior or entry level animator where he can bring stunning characters to life and provide potential employers good quality animations.  Reach out to him through [derrick@derrickryanartanimation.com](mailto:derrick@derrickryanartanimation.com) or [firecirclegamesanimation@gmail.com](mailto:firecirclegamesanimation@gmail.com) to connect.  
 
-<br></br><br></br>
+<br>
 
 | [Linkedin](https://www.linkedin.com/in/dryan-animations/) | [Artstation](https://dmryan.artstation.com/) | [Vimeo](https://vimeo.com/firecirclegamesanimation) | [YouTube Channel](https://youtube.com/@firecirclegamesandanimation) | [Itch.io Page](https://deranreizer.itch.io/) |
