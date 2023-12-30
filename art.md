@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Artwork
+title: Artwork, Sketches, and Drawings
 permalink: /art/
 ---
 
