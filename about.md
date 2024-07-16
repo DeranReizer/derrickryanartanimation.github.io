@@ -4,7 +4,7 @@ title: About Derrick
 permalink: /about/
 ---
 
-Derrick is a graduate from the University of Utah with a bachelors degree in Film and Media Arts with the Animation Emphasis and a Minor in Games.  He focuses on 3D Character animation and is currently enrolled in Animation Mentor to improve his skills.  He has experience in animating in different programs, including Maya, Blender and the Unreal Game Engine.  Derrick also enjoys creating art on Adobe Photoshop and Krita, continuously challenging himself to create better artwork.  
+Derrick is a graduate from the University of Utah with a bachelors degree in Film and Media Arts with the Animation Emphasis and a Minor in Games.  He focuses on 3D Character animation and is currently enrolled in Animation Mentor to improve his skills.  He has experience in animating in different programs, including Maya, Blender and the Unreal Game Engine.  Derrick also creates Artwork and Storyboards using Adobe Photoshop and Krita for various projects to help create ideas for his personal projects.
 
 Derrick has enjoyed animation for as long as he can remember.  Always looking to improve, he takes feedback on his work very seriously and is not afraid to ask questions for clarification.  He recently got into digital art during college and works on new pieces when he isn't animating.  
 
