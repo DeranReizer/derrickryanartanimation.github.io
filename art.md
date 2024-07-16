@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Artwork, Sketches, and Drawings
+title: Artwork, Sketches, and Storyboards
 permalink: /art/
 ---
 
