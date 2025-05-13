@@ -4,6 +4,6 @@ title: Art, Tech. Art, Tech. Animation
 permalink: /art/
 ---
 
-| Art | | Tech. Art | | Tech Animation |
+| Art | | Tech. Art | | Tech. Animation |
 | :---: | | :---: | | :---: |
 |  | |  | |  |
