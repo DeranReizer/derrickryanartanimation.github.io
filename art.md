@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Artwork, Sketches, and Storyboards
+title: Art, Tech. Art, Tech. Animation
 permalink: /art/
 ---
 
-| Artwork | | Sketches | | Storyboards |
+| Art | | Tech. Art | | Tech Animation |
 | :---: | | :---: | | :---: |
 |  | |  | |  |
