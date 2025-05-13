@@ -10,4 +10,4 @@ url: "http://www.derrickryanartanimation.com/home/" # the base hostname & protoc
 github_username:  DeranReizer
 linkedin_username: dryan-animations
 year_range: 2023-2024
-
+author: copyright Derrick Ryan {{site.year_range}} All Rights Reserved.
